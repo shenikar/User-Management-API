@@ -7,8 +7,8 @@ import (
 	"strconv"
 
 	"github.com/gorilla/mux"
-	"github.com/user-management/internal/models"
-	"github.com/user-management/internal/repository"
+	"github.com/shenikar/User-Management-API/internal/models"
+	"github.com/shenikar/User-Management-API/internal/repository"
 )
 
 type UserHandler struct {
